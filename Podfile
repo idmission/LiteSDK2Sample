@@ -1,14 +1,13 @@
 # Uncomment the next line to define a global platform for your project
- platform :ios, '15.6'
+ platform :ios, '15.5'
 
 target 'LiteSDK2Sample' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
   # Pods for LiteSDK2Sample
-    pod 'IDentityLiteSDK2.0'
-    pod 'IDentityLiteModels'
-    pod 'GZIP'
+    pod 'IDentityLiteSDK2.0', '11.1.13.2.3'
+    pod 'IDentityLiteModels', '11.1.13.2.3'
 
 end
 
