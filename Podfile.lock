@@ -1,10 +1,10 @@
 PODS:
-  - IDentityLiteModels (11.1.13.2.3)
-  - IDentityLiteSDK2.0 (11.1.13.2.3)
+  - IDentityLiteModels (11.1.19.2.5)
+  - IDentityLiteSDK2.0 (11.1.19.2.5)
 
 DEPENDENCIES:
-  - IDentityLiteModels (= 11.1.13.2.3)
-  - IDentityLiteSDK2.0 (= 11.1.13.2.3)
+  - IDentityLiteModels (= 11.1.19.2.5)
+  - IDentityLiteSDK2.0 (= 11.1.19.2.5)
 
 SPEC REPOS:
   trunk:
@@ -12,9 +12,9 @@ SPEC REPOS:
     - IDentityLiteSDK2.0
 
 SPEC CHECKSUMS:
-  IDentityLiteModels: 09b87a583225c02de936ec4588fe823694632cd3
-  IDentityLiteSDK2.0: 53d596847a84c2b1496b001a7a3d8f1c22036abe
+  IDentityLiteModels: 66d360b93cd51ffae88ae093116cddea161b3465
+  IDentityLiteSDK2.0: 7efcd2e67468bb82d31a10e206356c31f6388891
 
-PODFILE CHECKSUM: 93c68f447deb9394e9a7fcd9934267e450573506
+PODFILE CHECKSUM: 8589865f97cc6da84ae78ca70c01751718162d17
 
 COCOAPODS: 1.16.2
